@@ -29,34 +29,6 @@
         "lastname": "Williamson",
         "jobprofile": "UI\/UX Developer"
     },
-    {
-        "id": "6",
-        "firstname": "Samuel",
-        "lastname": "Jones",
-        "jobprofile": "Front-End Developer"
-    },
-    {
-        "id": "7",
-        "firstname": "Michael",
-        "lastname": "Read",
-        "jobprofile": "Backend Developer"
-    },
-    {
-        "id": "8",
-        "firstname": "Robert",
-        "lastname": "Phillips",
-        "jobprofile": "Android Developer"
-    },
-    {
-        "id": "9",
-        "firstname": "Albert",
-        "lastname": "Stewart",
-        "jobprofile": "Web Developer"
-    },
-    {
-        "id": "10",
-        "firstname": "Wayne",
-        "lastname": "Diaz",
-        "jobprofile": "Junior Developer"
-    }
+   
+ 
 ]
